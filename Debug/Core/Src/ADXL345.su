@@ -1,0 +1,9 @@
+../Core/Src/ADXL345.c:22:6:Scan_I2C_Address	16	static
+../Core/Src/ADXL345.c:33:6:ADXL345_Read	32	static
+../Core/Src/ADXL345.c:40:6:ADXL345_Write	32	static
+../Core/Src/ADXL345.c:50:6:ADX345_Init	16	static
+../Core/Src/ADXL345.c:93:7:ADXL345_Get_Value_X	8	static
+../Core/Src/ADXL345.c:103:7:ADXL345_Get_Value_Y	8	static
+../Core/Src/ADXL345.c:112:7:ADXL345_Get_Value_Z	8	static
+../Core/Src/ADXL345.c:123:6:ADX345_Init_Tap	8	static
+../Core/Src/ADXL345.c:154:6:ADXL345_Get_Tap	8	static
